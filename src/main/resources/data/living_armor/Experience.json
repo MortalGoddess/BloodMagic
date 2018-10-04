@@ -1,5 +1,5 @@
 {
-  "id": "bloodmagic:Experience",
+  "id": "bloodmagic:experience",
   "levels": [
     {"xp": 100, "cost": 7},
     {"xp": 400,"cost": 13},
@@ -14,7 +14,7 @@
   ],
 
   "bonuses": {
-    "ExperienceModifier": [
+    "experience_modifier": [
       0.15,
       0.3,
       0.45,

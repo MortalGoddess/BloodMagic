@@ -1,5 +1,5 @@
 {
-  "id": "bloodmagic:fallprotect",
+  "id": "bloodmagic:fall_protect",
 
   "levels": [
     {"xp": 30,"level": 2},
@@ -10,7 +10,7 @@
   ],
 
   "bonuses": {
-    "protectionLevel": [
+    "protection_level": [
       0.2,
       0.4,
       0.6,
